@@ -8,3 +8,4 @@ Place the script directly into the folder with the server jar and run it. From t
 # Future plans
 - Compile into an executable for easy sharing
 - Player playtime tracking
+- Automatic world backups
